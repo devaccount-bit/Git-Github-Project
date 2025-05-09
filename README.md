@@ -1,2 +1,2 @@
 # Git-Github-Project
-Here is the checkpoint link: [Gomycode](gmcheckpoint.com)
+Here is the checkpoint link: (https://gmcheckpoint.com)
